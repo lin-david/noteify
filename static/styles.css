@@ -1,0 +1,32 @@
+body {
+	text-align: center;
+	padding: 20px;
+	background-color: #CBF4FF;
+	color: black;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: normal;
+}
+
+h2 {
+	font-weight: lighter;
+}
+
+#button {
+	background-color: #c4c4c4;
+	background: white;
+	color: #565a5c;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px;
+	font-family: "Roboto", sans-serif;
+}
+
+#button:hover {
+	opacity: .75;
+	cursor: pointer;
+}
