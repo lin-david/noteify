@@ -7,7 +7,9 @@
 #$ python app.py
 #It will be available on http://localhost:5000/
 
-#To download Flask (OS X terminal instructions only):
+#If you haven’t installed pip:
 #$ sudo easy_install pip
+#If you run into an error with OS permissions:
 #$ sudo chown -R $USER /Library/Python/2.7
+#To download Flask (terminal instructions only):
 #$ pip install Flask

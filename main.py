@@ -95,7 +95,7 @@ def main():
             current_build = ""
 
     #Generate an HTML page
-    first_half = "<html><head><title>Converted Text</title></head><body><p>"
+    first_half = "<html><head><link href='../static/styles.css' rel='stylesheet'><title>Converted Text</title></head><body id='convertedbody'><p>"
     second_half = "</body></html>"
 
     return first_half + html_code + second_half

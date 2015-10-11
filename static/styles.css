@@ -30,3 +30,11 @@ h2 {
 	opacity: .75;
 	cursor: pointer;
 }
+
+#convertedbody {
+	margin: 20px 300px;
+	text-align: left;
+	background-color: white;
+	font-family: 'serif';
+
+}
