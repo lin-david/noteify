@@ -24,3 +24,7 @@ $ pip install Flask
 Screenshots:
 <br />
 ![alt tag](screenshots/home.png)
+<br />
+![alt tag](screenshots/home_input_text.png)
+<br />
+![alt tag](screenshots/noteified.png)
