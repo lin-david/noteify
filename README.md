@@ -20,3 +20,7 @@ $ sudo chown -R $USER /Library/Python/2.7
 To download Flask (terminal instructions only):
 <br />
 $ pip install Flask
+
+Screenshots:
+<br />
+![alt tag](screenshots/home.png)
